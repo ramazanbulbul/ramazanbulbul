@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazanbulbul&label=Profile%20views&color=0e75b6&style=flat" alt="ramazanbulbul" /> </p>
 <p align="left"> <a href="https://twitter.com/ramazanbulbll" target="_blank"><img src="https://img.shields.io/twitter/follow/ramazanbulbll?logo=twitter&style=for-the-badge" alt="ramazanbulbul" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramazanbulbul" alt="ramazanbulbul" /></a> </p>
 
 - 📫 How to reach me **ramazanbulbul3543@gmail.com**
 -  I’m currently learning  .NET 8 and Microservices
@@ -39,9 +38,3 @@
   <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://store-images.s-microsoft.com/image/apps.53639.14392113910098879.68783c39-990f-4d51-8cdf-2af5517a7aad.562090c4-acfa-42bb-8d4b-b57693a7ef37?h=464" alt="rabbitmq" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramazanbulbul&show_icons=true&locale=en&layout=compact" alt="ramazanbulbul" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramazanbulbul&show_icons=true&locale=en" alt="ramazanbulbul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazanbulbul&" alt="ramazanbulbul" /></p>
